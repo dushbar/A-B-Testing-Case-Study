@@ -226,5 +226,4 @@ Planned extensions:
 - novelty effect detection across experiment duration
 - multiple-testing correction across segments
 - sequential testing methods
-- CUPED variance reduction
 - visualization dashboards for experiment monitoring
