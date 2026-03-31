@@ -11,7 +11,6 @@ The experiment is conducted on a simulated dataset of 20,000 users split evenly 
 ---
 
 ## Experiment Objective
-
 The goal of the experiment is to determine whether a new checkout design increases purchase conversion rate without negatively impacting user experience metrics such as latency.
 
 ### Hypotheses
